@@ -14,7 +14,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 BSc Computer Science student (2024–2027)
-- 💻 Currently a **Python Project Intern @ Cybernaut EdTech Private Limited**
+- 💻 Python Project Intern — Cybernaut EdTech Private Limited | Completed
 - 🚀 Strongest in **React.js, JavaScript, and component-driven UI**
 - 🌱 Deepening into state management, Node/Express, and databases
 - 📌 I learn by shipping — building and documenting real projects, not just tutorials
